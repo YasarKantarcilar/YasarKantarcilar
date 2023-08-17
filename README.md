@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasarkantarcilar" alt="yasarkantarcilar" /></a> </p>
 
-- SU ANDA HAKKINDA CALISTIGIM PROJE **INDIRIOO**
 
-- 🌱 OGRENDIGIM TEKNOLOJILER **NODEJS, NEXTJS**
 
 - 💬 BANA SORU SOR **REACT,REACTNATIVE**
 
