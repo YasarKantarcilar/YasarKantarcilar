@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben YAŞAR</h1>
+<h1 align="center">Hello, its Yaşar</h1>
 <h3 align="center">WEB/MOBIL DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasarkantarcilar&label=Profile%20views&color=0e75b6&style=flat" alt="yasarkantarcilar" /> </p>
@@ -7,9 +7,9 @@
 
 
 
-- 💬 BANA SORU SOR **REACT,REACTNATIVE**
+- 💬 Ask me about **REACT,REACTNATIVE**
 
-- 📫 BANA ILGILI LINKTEN ULASABILIRSINIZ **kantarcilaryasar.com.tr**
+- 📫 Reach out **kantarcilaryasar.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
