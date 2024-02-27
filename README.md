@@ -7,7 +7,7 @@
 
 
 
-- 💬 Ask me about **REACT,REACTNATIVE**
+- 💬 Ask me about **Javascript, Typescript and Golang**
 
 - 📫 Reach out **kantarcilaryasar.com.tr**
 
